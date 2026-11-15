@@ -1,0 +1,10 @@
+{
+  "name": "Nahor",
+  "short_name": "Nahor",
+  "description": "English to Assamese document translator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#091315",
+  "theme_color": "#091315",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
