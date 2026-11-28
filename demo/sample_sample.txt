@@ -1,0 +1,21 @@
+EN: The Indian Constitution: a short introduction
+TR: ভাৰতৰ সংবিধান: এটি চমু পৰিচয়
+
+EN: India is a sovereign, socialist, secular, democratic republic.
+TR: ভাৰত এখন সাৰ্বভৌম, সমাজবাদী, ধৰ্মনিৰপেক্ষ, গণতান্ত্ৰিক সাধাৰণতন্ত্ৰ।
+
+EN: The Constitution of India came into force on 26 January 1950.
+TR: ভাৰতৰ সংবিধান ১৯৫০ চনৰ ২৬ জানুৱাৰীত বলবৎ হয়।
+
+EN: Fundamental Rights are guaranteed to every citizen by Part III of the Constitution.
+TR: সংবিধানৰ তৃতীয় ভাগে প্ৰতিগৰাকী নাগৰিকক মৌলিক অধিকাৰৰ নিশ্চয়তা প্ৰদান কৰে।
+
+EN: The Parliament consists of the President, the Lok Sabha and the Rajya Sabha.
+TR: সংসদ ৰাষ্ট্ৰপতি, লোকসভা আৰু ৰাজ্যসভাৰে গঠিত।
+
+EN: The Supreme Court can issue writs to protect Fundamental Rights.
+TR: মৌলিক অধিকাৰ সুৰক্ষিত কৰিবলৈ সৰ্বোচ্চ ন্যায়ালয়ে ৰিট জাৰি কৰিব পাৰে।
+
+EN: Directive Principles of State Policy guide the government in making laws.
+TR: ৰাজ্যৰ নীতি-নিৰ্দেশক সূত্ৰসমূহে চৰকাৰক আইন প্ৰণয়নত পথ প্ৰদৰ্শন কৰে।
+
